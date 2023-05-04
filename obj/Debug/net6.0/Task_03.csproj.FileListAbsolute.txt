@@ -1,0 +1,15 @@
+E:\Учеба\С#\Task_03\bin\Debug\net6.0\Task_03.exe
+E:\Учеба\С#\Task_03\bin\Debug\net6.0\Task_03.deps.json
+E:\Учеба\С#\Task_03\bin\Debug\net6.0\Task_03.runtimeconfig.json
+E:\Учеба\С#\Task_03\bin\Debug\net6.0\Task_03.dll
+E:\Учеба\С#\Task_03\bin\Debug\net6.0\Task_03.pdb
+E:\Учеба\С#\Task_03\obj\Debug\net6.0\Task_03.csproj.AssemblyReference.cache
+E:\Учеба\С#\Task_03\obj\Debug\net6.0\Task_03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\С#\Task_03\obj\Debug\net6.0\Task_03.AssemblyInfoInputs.cache
+E:\Учеба\С#\Task_03\obj\Debug\net6.0\Task_03.AssemblyInfo.cs
+E:\Учеба\С#\Task_03\obj\Debug\net6.0\Task_03.csproj.CoreCompileInputs.cache
+E:\Учеба\С#\Task_03\obj\Debug\net6.0\Task_03.dll
+E:\Учеба\С#\Task_03\obj\Debug\net6.0\refint\Task_03.dll
+E:\Учеба\С#\Task_03\obj\Debug\net6.0\Task_03.pdb
+E:\Учеба\С#\Task_03\obj\Debug\net6.0\Task_03.genruntimeconfig.cache
+E:\Учеба\С#\Task_03\obj\Debug\net6.0\ref\Task_03.dll
